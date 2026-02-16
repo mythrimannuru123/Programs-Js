@@ -110,14 +110,14 @@ console.log(flatmethod);
 
 //findindex method
 
-var findindexmethod = [1,2,3,4].findIndex((x)=> x>2);
+var findindexmethod = [1,2,3,4].findIndex((x)=> x>3);
 console.log(findindexmethod);
 
 //toString method   
 
 var tostringmethod = [1,2,3,4].toString();
 console.log(tostringmethod);
-
+ 
 //isArray method
 
 var isarraymethod = Array.isArray([1,2,3]);
